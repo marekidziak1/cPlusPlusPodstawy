@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1620642188 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\pierwszy\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string>
+	<windows.h>
+
+1623149778 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<array>
+	<cmath>
+	<iomanip>
+	"Odc2ObKlasy.h"
+	"Odc3ObHermetyzacjaKonstrDestruktor.h"
+	"Odc4ObFunkcjeZaprzyjaznione.h"
+	"odc5ObDziedziczenie.h"
+	"Odc6ObPolimorfizm.h"
+
+1622121608 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc2obpytanie.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"odc2ObPytanie.h"
+
+1622120580 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc2obpytanie.h
+	<iostream>
+
+1622123838 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc2obklasy.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	"odc2ObKlasy.h"
+
+1622122708 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc2obklasy.h
+	<iostream>
+
+1622125394 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc3obhermetyzacjakonstrdestr.cpp
+	<iostream>
+	"Odc3ObHermetyzacjaKonstrDestr.h"
+
+1622127025 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc3obhermetyzacjakonstrdestr.h
+	<iostream>
+
+1623073938 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc3obhermetyzacjakonstrdestruktor.h
+	<iostream>
+
+1622157580 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc3obhermetyzacjakonstrdestruktor.cpp
+	<iostream>
+	"Odc3ObHermetyzacjaKonstrDestruktor.h"
+
+1623074752 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc4obfunkcjezaprzyjaznione.cpp
+	<iostream>
+	"Odc4ObFunkcjeZaprzyjaznione.h"
+
+1623135596 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc4obfunkcjezaprzyjaznione.h
+	<iostream>
+
+1623141262 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc5obdziedziczenie.h
+	<iostream>
+
+1623141732 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc5obdziedziczenie.cpp
+	<iostream>
+	<cmath>
+	"odc5ObDziedziczenie.h"
+
+1623149971 e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc6obpolimorfizm.h
+	<iostream>
+
+1623149971 source:e:\kopia 2020.11.03\zz reszta\pasjainformatyki\c++podstawy\odc6obpolimorfizm.cpp
+	<iostream>
+	"Odc6ObPolimorfizm.h"
+
